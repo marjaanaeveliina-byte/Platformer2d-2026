@@ -6,8 +6,6 @@
 [node name="Level" type="Node2D"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-modulate = Color(1, 0.9882353, 0.9843137, 1)
 position = Vector2(300, 250)
 texture = ExtResource("1_7u4ml")
 script = ExtResource("2_16p8j")
-_speed = 1000.0
